@@ -60,3 +60,7 @@ cmake-build-debug/
 local.properties
 .log
 .exe
+output_en.txt
+output_en2.txt
+output_pt.txt
+output_pt2.txt
